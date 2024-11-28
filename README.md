@@ -123,13 +123,13 @@ N.B.: _This project is based on the data provided till 15th November, 2020_
 
 ***********************************************************
 <h2>📜Conference Participated with this Research Work</h2>
-<a href = "[https://www.springer.com/gp/book/9789811642838](https://link.springer.com/chapter/10.1007/978-981-16-4284-5_31)"><img src="https://i.imgur.com/EwHM6Je.png" width="100px;" alt=""/> </a> &nbsp;  <a href = "https://www.springer.com/gp/book/9789811642838"><img src="https://i.imgur.com/UWx6O23.jpg" height = "100px" width = "700px" alt = "" /></a>
+<a href = "https://link.springer.com/chapter/10.1007/978-981-16-4284-5_31"><img src="https://i.imgur.com/EwHM6Je.png" width="100px;" alt=""/> </a> &nbsp;  <a href = "https://www.springer.com/gp/book/9789811642838"><img src="https://i.imgur.com/UWx6O23.jpg" height = "100px" width = "700px" alt = "" /></a>
 
 **************************************************************
 
 <h2>📝Publication</h2>  
 
-<a href = "[https://www.springer.com/gp/book/9789811642838](https://link.springer.com/chapter/10.1007/978-981-16-4284-5_31)"><img src="https://cdn-images-1.medium.com/max/800/1*H7Pq3wD3b7gHKQQwXZlSRg.jpeg" width="225px" height = "150px" alt=""/></a> &nbsp; <a href="https://www.springer.com/gp/book/9789811642838"><img src="https://media.springernature.com/w153/springer-static/cover/book/9789811642845.jpg" width="100px;" alt=""/></a>
+<a href = "https://link.springer.com/chapter/10.1007/978-981-16-4284-5_31"><img src="https://cdn-images-1.medium.com/max/800/1*H7Pq3wD3b7gHKQQwXZlSRg.jpeg" width="225px" height = "150px" alt=""/></a> &nbsp; <a href="https://www.springer.com/gp/book/9789811642838"><img src="https://media.springernature.com/w153/springer-static/cover/book/9789811642845.jpg" width="100px;" alt=""/></a>
 
 **[Cyber Intelligence and Information Retrieval (CIIR 2021), Springer LNNS Series](https://www.springer.com/gp/book/9789811642838)** 
 
